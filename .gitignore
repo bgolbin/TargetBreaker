@@ -1,0 +1,40 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity3D asset files
+*.anim
+*.asset
+*.mat
+*.meta
+*.prefab
+*.unity
+
+# Unity3D auto-generated project settings
+ProjectSettings/
+*.pidb
+
+# Unity3D backups
+[Dd]umps/
+[Tt]emp.meta
+[Oo]bj.meta
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.pidb.meta
+
+# macOS
+.DS_Store
